@@ -109,7 +109,8 @@ def mc_control(env, gamma=1.0, init_alpha=0.5, min_alpha=0.01, alpha_decay_ratio
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/ef316d29-0126-4113-8f00-a3f120d2c8b7)
+![Screenshot 2024-10-16 094731](https://github.com/user-attachments/assets/8f41e324-e836-4171-bc6b-6a838a309fbe)
+
 
 
 ## RESULT:
